@@ -7,4 +7,4 @@
 *Nested БЭМ
 *CSS анимация
 ## **Ссылка на проект**
-[Обычная ссылка с title](https://www.yandex.ru "Я Yandex!")
+[Sprint 2](https://github.com/Jime1234/how-to-learn)
